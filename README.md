@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Testing Projects:</h2>
 
 - <b>Test case creation (Kiwi TCMS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Delta Airlines](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Test case execution</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Defect and Bug reporting</b>
